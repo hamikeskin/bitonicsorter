@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/WWW/Yazilim/cLionProject/bitonicsorter/bitonicsorter.c
+stdio.h
+-
+bitonicsorter.h
+D:/WWW/Yazilim/cLionProject/bitonicsorter/bitonicsorter.h
+
+D:/WWW/Yazilim/cLionProject/bitonicsorter/bitonicsorter.h
+
+D:/WWW/Yazilim/cLionProject/bitonicsorter/main.c
+stdio.h
+-
+bitonicsorter.h
+D:/WWW/Yazilim/cLionProject/bitonicsorter/bitonicsorter.h
+

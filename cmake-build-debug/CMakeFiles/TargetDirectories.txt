@@ -1,0 +1,3 @@
+D:/WWW/Yazilim/cLionProject/bitonicsorter/cmake-build-debug/CMakeFiles/bitonicsorter.dir
+D:/WWW/Yazilim/cLionProject/bitonicsorter/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/WWW/Yazilim/cLionProject/bitonicsorter/cmake-build-debug/CMakeFiles/rebuild_cache.dir

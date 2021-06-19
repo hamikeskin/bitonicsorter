@@ -1,0 +1,10 @@
+BU PROGRAM, DİZİ BOYUTU 2'NİN KATLARI (2, 4, 8, 16, 32) OLDUĞUNDA CALIŞIR.
+Bu programda dizi boyutu max 8 olacak şekilde tasarlandı
+8'den fazla veri eklenmez
+
+main.c dosyasını çalıştırın
+
+Oge eklemek icin 1, 
+Oge Silmek icin 2,
+Siralamak icin 3, 
+Cikis icin 4 e basiniz.
